@@ -1,1 +1,1 @@
-# E-comerse
+# E-comerse with vanilla JS.
